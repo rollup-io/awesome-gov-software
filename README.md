@@ -1,3 +1,7 @@
+# Prefer a Website?
+See here:
+https://awesomegovsaas.super.site/
+
 # Disclaimer
 Yadda yadda do your own diligence, we aren't guaranteeing anything. 
 This is just a list of links.
